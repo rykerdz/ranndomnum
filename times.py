@@ -10,7 +10,7 @@ for i in range (n):
     t=time.microsecond
 
     l.append(t)
-    sleep(0.112)
+    sleep(0.037)
 
 for i in (l):
     tym.append(i/10000)
